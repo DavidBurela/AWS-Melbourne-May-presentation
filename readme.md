@@ -45,3 +45,5 @@ Lots of plugins available.
 Windows server now has container support.
 
 VS 2017 supports debugging within Docker containers.
+
+![docker](docker_workflow.PNG)
