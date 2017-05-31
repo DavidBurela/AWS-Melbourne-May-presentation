@@ -32,6 +32,11 @@ code . #start Visual Studio Code in this folder!
 npm start #hosts on localhost:3000
 ```
 
+### AWS CLI
+[https://aws.amazon.com/cli/](https://aws.amazon.com/cli/)
+
+`pip install awscli`
+
 ### Visual Studio code
 
 [https://code.visualstudio.com/](https://code.visualstudio.com/)
